@@ -1,7 +1,7 @@
 # Blotto
-Some simulation code for castle game Blotto. 
+Some simulation code for castle game **Blotto**. 
 
-*What is Blotto?*
+**What is Blotto?**
 
 There are 10 castles, numbered 1, 2, 3, ... , 10, and worth 1, 2, 3, ... , 10 points respectively. You have 100 soldiers, which you can
 allocate between the castles however you wish. Your opponent also (independently) does the same. The number of soldiers on
